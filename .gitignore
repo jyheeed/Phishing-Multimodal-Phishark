@@ -1,0 +1,18 @@
+# Local dataset archives and extracted data
+phisharkl2026dataset-v1.1/
+
+# Notebook-generated artefacts
+results/
+.ipynb_checkpoints/
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
