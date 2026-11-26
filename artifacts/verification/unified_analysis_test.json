@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "analysis_from_delivered_notebook": true,
+  "models_loaded": false,
+  "networks_trained": false,
+  "original_results_written": false,
+  "verification_directory": "artifacts\\uat\\r2",
+  "models": 28
+}

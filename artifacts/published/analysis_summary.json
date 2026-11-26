@@ -1,0 +1,141 @@
+{
+  "run": "artifacts\\runs\\full_experiment\\grouped\\77162f55317be0844ec3",
+  "code": "75d3c99cede2b5723ea44c3710ffb991a3434d0c9f0ca6846458ad2d406633d6",
+  "raw_rows": 67502,
+  "eligible_rows": 67501,
+  "quarantined_rows": 1,
+  "test_n": 13439,
+  "common_n": 13212,
+  "coverage": 0.9831088622665377,
+  "common_prevalence": 0.49530729639721466,
+  "test_prevalence": 0.4922985341171218,
+  "group_count": 5230,
+  "metrics_verified": 28,
+  "available_metrics_verified": 22,
+  "bootstrap_repetitions": 200,
+  "networks_trained": false,
+  "label_changes": false,
+  "threshold_changes": false,
+  "selection_on_test": false,
+  "seconds": 16.791623800061643,
+  "training": [
+    {
+      "status": "TRAINED",
+      "signature": "f65cac95eb9e851d411e7dd37e1c8c7d0b4d876b52aca98ea6dcb49f56a7da68",
+      "model": "U1",
+      "mode": "FULL_EXPERIMENT",
+      "best_epoch": 8,
+      "validation_AP": 0.993029241779796,
+      "train_seconds": 188.05753180023748,
+      "sha256": "c138182ef476e267a167a940a6379ae003781f7280504cfbb01804d2edef5bd3",
+      "parameters": 11873,
+      "device": "cpu",
+      "test_used": false
+    },
+    {
+      "status": "TRAINED",
+      "signature": "cc83df8b13cb2e8f219ba656e792d37e37f2a8d64f22515f25ea5460dc3b8bfe",
+      "model": "U2",
+      "mode": "FULL_EXPERIMENT",
+      "best_epoch": 9,
+      "validation_AP": 0.980964439922027,
+      "train_seconds": 469.6490184997674,
+      "sha256": "2e9bb96c8459c2e26da2903eeaa4e39457974c4d5f99d81839127a7d66c8b92c",
+      "parameters": 394481,
+      "device": "cpu",
+      "test_used": false
+    },
+    {
+      "status": "TRAINED",
+      "signature": "a67e8ddb07ae6eb79c5118a360988d4b96765fc17254a7d1170548d890301361",
+      "model": "U3",
+      "mode": "FULL_EXPERIMENT",
+      "best_epoch": 2,
+      "validation_AP": 0.7539433580548943,
+      "train_seconds": 505.99784140021075,
+      "sha256": "9c75deedb27c02c3131549d98ad8c824a9337e8faed58fe5e867df1a84e4e3f3",
+      "parameters": 58785,
+      "device": "cpu",
+      "test_used": false
+    },
+    {
+      "status": "TRAINED",
+      "signature": "e32582be07a1045dad8079e615366941447d69c7ee6858766c9cd9ebf20ba07a",
+      "model": "U4",
+      "mode": "FULL_EXPERIMENT",
+      "best_epoch": 3,
+      "validation_AP": 0.9249912665481121,
+      "train_seconds": 171.30315310007427,
+      "sha256": "035ab964e4a669dc61fff444f357dec8fb585e5d1c73bb770a596eeeec9dc580",
+      "parameters": 4865,
+      "device": "cpu",
+      "test_used": false
+    },
+    {
+      "status": "TRAINED",
+      "signature": "2ecc431d5239e4f68f2d1fb19fbb0b270f503c6e07145976e1be84d46439a7c5",
+      "model": "M2",
+      "mode": "FULL_EXPERIMENT",
+      "best_epoch": 6,
+      "validation_AP": 0.998436810532945,
+      "train_seconds": 40.67971810000017,
+      "sha256": "9a31056c59b8fa34bfed19c616f96b3c82df4112e0070dc336b21ddd53d2727e",
+      "parameters": 10625,
+      "device": "cpu",
+      "test_used": false
+    }
+  ],
+  "class_counts": [
+    {
+      "split": "calibration",
+      "label_id": 0,
+      "n": 1706
+    },
+    {
+      "split": "calibration",
+      "label_id": 1,
+      "n": 1665
+    },
+    {
+      "split": "test",
+      "label_id": 0,
+      "n": 6823
+    },
+    {
+      "split": "test",
+      "label_id": 1,
+      "n": 6616
+    },
+    {
+      "split": "train_encoder",
+      "label_id": 0,
+      "n": 17058
+    },
+    {
+      "split": "train_encoder",
+      "label_id": 1,
+      "n": 16309
+    },
+    {
+      "split": "train_fusion",
+      "label_id": 0,
+      "n": 5117
+    },
+    {
+      "split": "train_fusion",
+      "label_id": 1,
+      "n": 5473
+    },
+    {
+      "split": "validation",
+      "label_id": 0,
+      "n": 3411
+    },
+    {
+      "split": "validation",
+      "label_id": 1,
+      "n": 3323
+    }
+  ],
+  "extraction_seconds": 7709.58884739998
+}

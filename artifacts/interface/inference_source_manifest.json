@@ -1,0 +1,29 @@
+{
+  "definitions": {
+    "Settings": "1387169dee69391be242de725a849849c5d8e879d5186203d4da0d7fed45f4b8",
+    "url_model_text": "c04ec3a98fd984aaf7c39775c2629fa272473b8f465e53b8e56f33c61abcf87b",
+    "finite_nonnegative": "c4aca6e399ad318ad655793acc94ef8da2cb8960360d9ddd45959235a51a9bf7",
+    "normalized_status": "9fc4350d8de7b9103bdf07088556d8ef29179e700bdc6898c6a6c56127ad2aeb",
+    "extract_numeric": "2df3197868c4b9aed612e21925519967b7d9b5707cd5f14cf4d0e0b1f7b76216",
+    "word_tokens": "abdb0f59a1b1334a07186ab377c37dcc707482347b15cf3dd4f0e3817b9eeefb",
+    "VisibleText": "595dff8b9809e6531f5ff2b015cac72556b03d73ef788f4e4ad4f31fe3c54a4f",
+    "visible_text": "c27575867841be51e23c945842d81818c0a50895a1e7a85f69d26a2497239a50",
+    "validate_members": "c3379f3144c7e888c23283e2aac79db53d5d2ad4ba0212f7ed32d3ac72ccbd3c",
+    "read_archive": "cb920c38870281cb590cc99902caf4d3132e9625d9351b509b93ca00936a9bfc",
+    "encode": "fd241740d3e892dd2a289362b9fc6ebb6cdf46e4d17ed1c04f1a0eff7e67ab5a",
+    "availability": "b5c82ba5da78eef539d8a947f2b6e3d7a2d0787aea0c63c24587d79ee266c638",
+    "ModalDataset": "3be11611f6c6562b2076cb2aa826ef93f555f89f37115f57f3e196e8176ee0a1",
+    "SequenceCNN": "3144df6cd9e75576d60f76ce40c1410b464a6e2e0f80dcebf9a371330837f576",
+    "ScreenshotCNN": "42d67bd38ffb2ed914710313e77b65203ea01948af868b08b4d91285f610889c",
+    "DenseClassifier": "b8498a875395312b70411d0fbabc87de37da0554913efe584dd35053866e7ee0",
+    "architecture": "e5b4895c6dc443e4d2533b874d249f5e8523d15d7e28cfdf5834c17f8c615373",
+    "inference": "e843d87fde4f0ba246a726c9f3891afd42f358476492023e2f80ae2b0eefe975",
+    "late_fusion": "527df687cb8e396977de06bb305e3b5f2ab975d9364f332a040b94002e1e24bd",
+    "combo_selected": "a04a5139822501ea162e3844ab0e0f6d0089dc6299a040505189709dd5051b64",
+    "constants": "3bd14267313ee1ca5f685f43b584280885b15238e145d93ea5987051d25bcf15"
+  },
+  "trained_code": "75d3c99cede2b5723ea44c3710ffb991a3434d0c9f0ca6846458ad2d406633d6",
+  "runtime_code_source": "single_final_notebook",
+  "inference_only": true,
+  "training_functions_loaded": false
+}

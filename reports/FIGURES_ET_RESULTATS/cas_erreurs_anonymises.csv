@@ -1,0 +1,21 @@
+case,model,error,label_id,probability,threshold,period,http_status,html_state,image_state,uniform,url_characters,technical_missing,interpretation
+M1_FP_01,M1,FP,0,0.5773502495139837,0.3804058604873717,2026-06,200.0,ok,ok,False,184,3,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FP_02,M1,FP,0,0.482273616733476,0.3804058604873717,2026-06,200.0,ok,ok,False,42,4,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FP_03,M1,FP,0,0.4003929480395527,0.3804058604873717,2026-06,200.0,ok,ok,False,46,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FP_04,M1,FP,0,0.4474607352167368,0.3804058604873717,2026-08,200.0,ok,ok,False,27,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FP_05,M1,FP,0,0.43435731902718544,0.3804058604873717,2026-06,200.0,ok,ok,True,41,4,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FN_06,M1,FN,1,0.3546839728951454,0.3804058604873717,2026-06,404.0,ok,ok,True,40,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FN_07,M1,FN,1,0.3556770281866193,0.3804058604873717,2026-06,200.0,ok,ok,False,33,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FN_08,M1,FN,1,0.3595335762947798,0.3804058604873717,2026-07,200.0,ok,ok,False,91,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FN_09,M1,FN,1,0.2785398503765464,0.3804058604873717,2026-06,200.0,ok,ok,False,43,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M1_FN_10,M1,FN,1,0.3072075026575476,0.3804058604873717,2026-06,451.0,ok,ok,False,36,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FP_11,M2,FP,0,0.9093358516693115,0.753240704536438,2026-06,200.0,ok,ok,False,42,4,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FP_12,M2,FP,0,0.8799274563789368,0.753240704536438,2026-08,200.0,ok,ok,False,27,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FP_13,M2,FP,0,0.9217458367347717,0.753240704536438,2026-06,200.0,ok,ok,False,133,7,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FP_14,M2,FP,0,0.8528380393981934,0.753240704536438,2026-06,200.0,ok,ok,False,58,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FP_15,M2,FP,0,0.9789237380027771,0.753240704536438,2026-06,200.0,ok,ok,False,226,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FN_16,M2,FN,1,0.25657719373703003,0.753240704536438,2026-06,404.0,ok,ok,True,40,8,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FN_17,M2,FN,1,0.4524385631084442,0.753240704536438,2026-07,200.0,ok,ok,False,33,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FN_18,M2,FN,1,0.0637894794344902,0.753240704536438,2026-06,200.0,ok,ok,False,28,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FN_19,M2,FN,1,0.5421618819236755,0.753240704536438,2026-06,200.0,ok,ok,False,27,0,Prediction disagrees with historical label; cause and relabeling require independent review
+M2_FN_20,M2,FN,1,0.1775410920381546,0.753240704536438,2026-07,200.0,ok,ok,False,32,8,Prediction disagrees with historical label; cause and relabeling require independent review

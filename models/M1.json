@@ -1,0 +1,12 @@
+{
+  "model": "M1",
+  "method": "equal_available_probability_mean",
+  "train_seconds": 0,
+  "learned_weights": false,
+  "modalities": [
+    "url",
+    "html",
+    "image",
+    "technical"
+  ]
+}

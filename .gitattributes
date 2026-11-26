@@ -1,0 +1,19 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.ipynb text eol=lf
+*.ps1 text eol=crlf
+*.pt binary
+*.joblib binary
+*.pdf binary
+*.pptx binary
+*.png binary
+
+# Integrity-bound bundles must retain their exact bytes across Git checkouts.
+# JSON/CSV newline conversion would invalidate the recorded SHA-256 manifests.
+models/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+artifacts/published/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+artifacts/provenance/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+artifacts/interface/inference_source_manifest.json -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
+reports/FIGURES_ET_RESULTATS/** -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol

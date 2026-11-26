@@ -1,0 +1,13 @@
+{
+  "status": "TRAINED",
+  "signature": "e32582be07a1045dad8079e615366941447d69c7ee6858766c9cd9ebf20ba07a",
+  "model": "U4",
+  "mode": "FULL_EXPERIMENT",
+  "best_epoch": 3,
+  "validation_AP": 0.9249912665481121,
+  "train_seconds": 171.30315310007427,
+  "sha256": "035ab964e4a669dc61fff444f357dec8fb585e5d1c73bb770a596eeeec9dc580",
+  "parameters": 4865,
+  "device": "cpu",
+  "test_used": false
+}

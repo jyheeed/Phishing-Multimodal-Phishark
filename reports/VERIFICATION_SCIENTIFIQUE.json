@@ -1,0 +1,41 @@
+{
+  "status": "PASS",
+  "pages": 52,
+  "pages_before_annexes": 44,
+  "annex_pages": 8,
+  "configurations": 28,
+  "common_scans": 13212,
+  "figures": 9,
+  "tables": 31,
+  "pseudonymous_error_rows": 20,
+  "jury_questions": 24,
+  "protected_hashes_verified": 42,
+  "raw_metadata_and_cache_hashes_verified": true,
+  "networks_trained": false,
+  "threshold_changes": false,
+  "label_changes": false,
+  "notebook_changed": false,
+  "visual_review": "All pages rendered; contact sheets and detailed pages inspected",
+  "source_pdfs": [
+    {
+      "file": "docs/specification/Projet_phishing_multimodal.pdf",
+      "pages": 2,
+      "sha256": "6eaa2d6bf8be8f6e96e787149013399aaed17c4593dcc33a426b65e01303c815"
+    },
+    {
+      "file": "artifacts/scientific_writing/sources/almakhamreh2024.pdf",
+      "pages": 130,
+      "sha256": "a4d6f4f9adb6039df6b014bdc0a9318dc0959825752b0a0a86b71638999378c8"
+    },
+    {
+      "file": "artifacts/scientific_writing/sources/crossphire2026.pdf",
+      "pages": 45,
+      "sha256": "f603c7aa43b70125c45773e673ce9ffa6d534db108c55fdaac29f62189fb29fb"
+    },
+    {
+      "file": "artifacts/scientific_writing/sources/yoon2024.pdf",
+      "pages": 21,
+      "sha256": "95072d28fa7ff3e7f7abbecde2d0254b4ee45a65a0b20550926cb3063996b5e5"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "status": "NOT_FEASIBLE",
+  "boundaries_utc": [
+    "2026-06-06 22:02:32.438083+00:00",
+    "2026-06-14 06:14:47.772887+00:00",
+    "2026-06-28 10:03:54.770323+00:00",
+    "2026-07-07 22:02:17.939115+00:00"
+  ],
+  "counts": {
+    "train_encoder": {
+      "0": 17701,
+      "1": 7602
+    },
+    "train_fusion": {
+      "0": 5066,
+      "1": 790
+    },
+    "validation": {
+      "1": 1892,
+      "0": 1122
+    },
+    "calibration": {
+      "1": 1511
+    },
+    "test": {
+      "0": 5443,
+      "1": 4310
+    }
+  },
+  "purged": 22064,
+  "original_status": {
+    "status": "NOT_FEASIBLE",
+    "reason": "Both classes are required in calibration",
+    "dates_modified": false,
+    "policy": "fixed cumulative raw-date quantiles, crossing-site/content groups purged",
+    "model_selection_on_temporal_test": false
+  },
+  "date_modified": false,
+  "labels_modified": false,
+  "networks_fitted": false
+}

@@ -1,0 +1,6 @@
+split,benign,phishing,n
+calibration,1706,1665,3371
+test,6823,6616,13439
+train_encoder,17058,16309,33367
+train_fusion,5117,5473,10590
+validation,3411,3323,6734

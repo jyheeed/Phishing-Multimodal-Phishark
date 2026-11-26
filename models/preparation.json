@@ -1,0 +1,35 @@
+{
+  "code": "75d3c99cede2b5723ea44c3710ffb991a3434d0c9f0ca6846458ad2d406633d6",
+  "settings": {
+    "mode": "FULL_EXPERIMENT",
+    "protocol": "grouped",
+    "seed": 42,
+    "samples_per_class": 0,
+    "epochs": 10,
+    "patience": 2,
+    "batch_size": 32,
+    "url_length": 256,
+    "html_length": 1024,
+    "vocabulary_limit": 16000,
+    "image_size": 96,
+    "threads": 2,
+    "learning_rate": 0.001,
+    "refinement_limit": 8,
+    "bootstrap_replicates": 200,
+    "split_fractions": [
+      0.5,
+      0.15,
+      0.1,
+      0.05,
+      0.2
+    ],
+    "benchmark_fractions": [
+      0.1,
+      0.25,
+      0.5,
+      1.0
+    ],
+    "benchmark_repeats": 3
+  },
+  "version": "77162f55317be0844ec3"
+}

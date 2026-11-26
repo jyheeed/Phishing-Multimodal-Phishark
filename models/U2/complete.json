@@ -1,0 +1,13 @@
+{
+  "status": "TRAINED",
+  "signature": "cc83df8b13cb2e8f219ba656e792d37e37f2a8d64f22515f25ea5460dc3b8bfe",
+  "model": "U2",
+  "mode": "FULL_EXPERIMENT",
+  "best_epoch": 9,
+  "validation_AP": 0.980964439922027,
+  "train_seconds": 469.6490184997674,
+  "sha256": "2e9bb96c8459c2e26da2903eeaa4e39457974c4d5f99d81839127a7d66c8b92c",
+  "parameters": 394481,
+  "device": "cpu",
+  "test_used": false
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cells": 225,
+  "code_cells": 122,
+  "model_imports_prohibited": true,
+  "networks_trained": false,
+  "full_replay_executed": false,
+  "common_models": 28,
+  "common_n": 13212,
+  "project_code_imports_prohibited": true
+}

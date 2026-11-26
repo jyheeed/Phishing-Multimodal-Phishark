@@ -1,0 +1,10 @@
+figure,fichier,message,source,split
+Figure 1,FIGURES_ET_RESULTATS/08_EDA_sources_periodes.png,"Figure 1 — Composition par source et mois UTC ; corpus brut, 67 502 scans. Une association ne mesure pas un effet causal sur les prédictions.",CSV et code vérifiés ; voir index détaillé,corpus brut
+Figure 2,FIGURES_ET_RESULTATS/09_disponibilite_modalites.png,Figure 2 — Disponibilité exploitable par classe dans le corpus brut ; les quatre modalités suivent la définition exacte du pipeline.,CSV et code vérifiés ; voir index détaillé,corpus brut
+Figure 3,FIGURES_ET_RESULTATS/01_modeles_AP.png,"Figure 3 — AP des six modèles centraux sur les mêmes 13 212 scans ; figure historique vérifiée, aucun nouveau réseau entraîné.",CSV et code vérifiés ; voir index détaillé,test commun
+Figure 4,FIGURES_ET_RESULTATS/02_combinaisons_heatmap.png,"Figure 4 — AP des onze sous-ensembles et des deux méthodes de fusion ; cohorte commune, comparaison exploratoire.",CSV et code vérifiés ; voir index détaillé,test commun
+Figure 5,FIGURES_ET_RESULTATS/10_compromis_comptages.png,"Figure 5 — Faux positifs et phishing manqués pour M1 et M2 ; mêmes 13 212 scans, seuils primary déterminés sur calibration.",CSV et code vérifiés ; voir index détaillé,test commun
+Figure 6,FIGURES_ET_RESULTATS/03_compromis_FPR_rappel.png,"Figure 6 — Compromis rappel/FPR aux politiques figées ; les points sont des diagnostics, pas une optimisation a posteriori.",CSV et code vérifiés ; voir index détaillé,test commun
+Figure 7,FIGURES_ET_RESULTATS/04_precision_recall.png,Figure 7 — Courbes précision–rappel des modèles centraux et prévalence de référence ; test commun.,CSV et code vérifiés ; voir index détaillé,test commun
+Figure 8,FIGURES_ET_RESULTATS/06_bigdata_temps.png,"Figure 8 — Temps pandas/PyArrow selon volume et scénario ; mesures sauvegardées, pas de courbe Spark inventée.",CSV et code vérifiés ; voir index détaillé,test commun
+Figure 9,FIGURES_ET_RESULTATS/07_bigdata_debit.png,Figure 9 — Débit du benchmark pandas/PyArrow local ; lignes par seconde pour les deux scénarios enregistrés.,CSV et code vérifiés ; voir index détaillé,benchmark local

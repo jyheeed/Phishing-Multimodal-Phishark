@@ -1,0 +1,4 @@
+-r requirements_dev.txt
+pyspark>=3.5,<4.1
+pypdf>=5
+reportlab>=4

@@ -1,0 +1,44 @@
+{
+  "version": "77162f55317be0844ec3",
+  "code": "75d3c99cede2b5723ea44c3710ffb991a3434d0c9f0ca6846458ad2d406633d6",
+  "mode": "FULL_EXPERIMENT",
+  "policies": {
+    "U1": {
+      "primary": 0.15266503393650055,
+      "recall85": 0.34274768829345703
+    },
+    "U2": {
+      "primary": 0.42108818888664246,
+      "recall85": 0.6770005226135254
+    },
+    "U3": {
+      "primary": 0.07527317106723785,
+      "recall85": 0.05405142903327942
+    },
+    "U4": {
+      "primary": 0.36818191409111023,
+      "recall85": 0.5977176427841187
+    },
+    "M1": {
+      "primary": 0.3804058604873717,
+      "recall85": 0.5295403324998915
+    },
+    "M2": {
+      "primary": 0.753240704536438,
+      "recall85": 0.9578937292098999
+    }
+  },
+  "artifacts": {
+    "preprocess.json": "39562530001330c1fe57484185b54319e2553a1871a342d505dea8ea8f747e05",
+    "fusion_scaling.json": "ab8aa4cddbf17adb8252dc51bc5e9bee79e811a3908f3c5b027146c8108b3f17",
+    "M1.json": "977e419eacff553f098c8ebba07eda75bc769e07a7a8da3714153270edc4666d",
+    "U1/best.pt": "c138182ef476e267a167a940a6379ae003781f7280504cfbb01804d2edef5bd3",
+    "U2/best.pt": "2e9bb96c8459c2e26da2903eeaa4e39457974c4d5f99d81839127a7d66c8b92c",
+    "U3/best.pt": "9c75deedb27c02c3131549d98ad8c824a9337e8faed58fe5e867df1a84e4e3f3",
+    "U4/best.pt": "035ab964e4a669dc61fff444f357dec8fb585e5d1c73bb770a596eeeec9dc580",
+    "M2/best.pt": "9a31056c59b8fa34bfed19c616f96b3c82df4112e0070dc336b21ddd53d2727e"
+  },
+  "split_sha256": "23db9cd26d81d72465940e1fa29288a376b84093c9a9570582ff10a4741cfb47",
+  "test_used_for_selection": false,
+  "probability_calibrator": "none; calibration role used for thresholds only"
+}

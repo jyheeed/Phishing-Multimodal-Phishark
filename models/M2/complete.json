@@ -1,0 +1,13 @@
+{
+  "status": "TRAINED",
+  "signature": "2ecc431d5239e4f68f2d1fb19fbb0b270f503c6e07145976e1be84d46439a7c5",
+  "model": "M2",
+  "mode": "FULL_EXPERIMENT",
+  "best_epoch": 6,
+  "validation_AP": 0.998436810532945,
+  "train_seconds": 40.67971810000017,
+  "sha256": "9a31056c59b8fa34bfed19c616f96b3c82df4112e0070dc336b21ddd53d2727e",
+  "parameters": 10625,
+  "device": "cpu",
+  "test_used": false
+}

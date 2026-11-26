@@ -1,0 +1,10 @@
+{
+  "repetitions": 200,
+  "seed": 42,
+  "groups": 5230,
+  "cohort_n": 13212,
+  "paired": true,
+  "unit": "original_connected_site_content_group",
+  "selection_on_test": false,
+  "multiplicity_adjusted": false
+}
